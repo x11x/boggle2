@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+}
+
+.boggle {
+  font-size: 56px;
+  color: #25245a;
+  width: 8em;
+  height: 8em;
+  transition: background-color 1s;
+}
+
+.boggle.covered {
+  background-color: #888;
+}
+
+.boggle.covered td {
+  opacity: 0;
+}
+
+.boggle.fullscreen {
+  font-size: 12.5vmin;
+  margin: 0 auto;
+  float: right;
+}
+
+.boggle td {
+  transition: opacity 1s;
+  background-color: white;
+  line-height: 1.5;
+  width: 25%;
+  height: 25%;
+  border: 0.1em outset #ddd;
+  border-radius: 25%;
+
+  font-weight: bold;
+  font-style: italic;
+  font-variant: small-caps;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}

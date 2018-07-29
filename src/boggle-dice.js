@@ -1,0 +1,6 @@
+export default [
+  "FPFKSA", "ERLIDX", "EGHWNE", "LNHNZR",
+  "VERLYD", "APSHCO", "NQIMHU", "ANAEEG",
+  "TYTDSI", "STOESI", "MTOICU", "RETWVH",
+  "OTTAOW", "JOOBBA", "USEENI", "ERTTYL"
+];

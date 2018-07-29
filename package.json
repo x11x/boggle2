@@ -1,0 +1,14 @@
+{
+  "name": "boggle2",
+  "version": "2.0.0",
+  "description": "Boggle word game",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.0.4"
+  }
+}
